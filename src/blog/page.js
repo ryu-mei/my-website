@@ -11,7 +11,7 @@ export default async function StaticPage() {
 
   return (
     <>
-      <h2>News</h2>
+      <h2>Blog</h2>
       <ul>
         {contents.map((post) => {
           return (

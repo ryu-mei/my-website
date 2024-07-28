@@ -1,4 +1,4 @@
-import StaticPage from "@/app/content/page";
+import StaticPage from "@/blog/page";
 
 export default function Home() {
   return (
